@@ -95,7 +95,7 @@ A full-stack developer collaboration platform for discovering projects, forming 
 `React.js` `Node.js` `Express.js` `MongoDB` `Socket.IO`
 
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/HarshadKavade/DevCollab)
-[![Live](https://img.shields.io/badge/Live_Demo-007ACC?style=flat-square&logo=vercel&logoColor=white)](https://your-live-link.vercel.app/)
+[![Live](https://img.shields.io/badge/Live_Demo-007ACC?style=flat-square&logo=vercel&logoColor=white)](https://dev-collab-frontend-79h6.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -117,9 +117,6 @@ AI-powered workflow for processing videos and generating meeting insights.
 
 </td>
 <td width="50%" valign="top">
-
-> 🌐 More projects and details available on my portfolio.
-
 </td>
 </tr>
 </table>
