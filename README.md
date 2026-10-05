@@ -100,25 +100,6 @@ A full-stack developer collaboration platform for discovering projects, forming 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Sahyatri
-**Women's Safety Application**
-
-A safety-focused application for smarter trip planning, guardian tracking, and emergency response.
-
-- Safety-aware route generation using **OpenRouteService**
-- Real-time SOS alerts and location sharing
-- Offline-first alert queue for resilient emergency handling
-- Guardian management and trip tracking
-
-`React.js` `Node.js` `Express.js` `MongoDB` `Socket.IO`
-
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/HarshadKavade/Sahyatri)
-[![Live](https://img.shields.io/badge/Live_Demo-007ACC?style=flat-square&logo=vercel&logoColor=white)](https://your-live-link.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### 🤖 AI-Powered Video Intelligence System
 **Meeting Intelligence & RAG Assistant**
@@ -159,16 +140,7 @@ AI-powered workflow for processing videos and generating meeting insights.
 
 ---
 
-## 🏅 Achievements
 
-<div align="center">
-
-| Achievement | Details |
-|:--:|:--|
-| 🏆 **LeetCode** | **1734** peak rating · 500+ problems solved |
-| ⭐ **CodeChef** | 2-star rating · 100+ problems solved |
-| 🎯 **MHT-CET** | **99.68 percentile** |
-| 📚 **Academic Record** | **CGPA 9.28 / 10** |
 
 </div>
 
@@ -189,7 +161,7 @@ AI-powered workflow for processing videos and generating meeting insights.
 
 <div align="center">
 
-📧 [your-email@gmail.com](mailto:your-email@gmail.com) &nbsp;•&nbsp; 📱 +91 XXXXXXXXXX &nbsp;•&nbsp; 🌐 [Portfolio](https://your-portfolio-link.com/)  
+📧 [harshukavade08@gmail.com](mailto:harshukavade08@gmail.com) &nbsp;•&nbsp; 📱 +91 7083095047 &nbsp;•&nbsp; 🌐 [Portfolio](https://portfolio-sigma-blush-76.vercel.app/)  
 💼 [LinkedIn](https://linkedin.com/in/harshad-kavade) &nbsp;•&nbsp; 💻 [GitHub](https://github.com/HarshadKavade)
 
 </div>
